@@ -1,0 +1,17 @@
+{
+  "Email":"Email",
+  "Email-hint":"Email",
+  "required_field": "Failed to sign in!\n\nPlease check your credentials and try again.",
+  "mdp": "Password",
+  "mdp-hint": "Password",
+  "required_field2": "Enter your password",
+  "svm": "Remeber me",
+  "mdp?": "Did you forget your password?",
+"Reset": "Reset",
+  "cnx": "Sign in",
+  "login": "Log in",
+  "dnt?": "Don't have an account ?"
+
+
+
+}

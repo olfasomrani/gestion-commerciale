@@ -1,0 +1,16 @@
+{
+"Email":"Email",
+  "Email-hint":"Email",
+  "required_field": "Entrer votre Email",
+  "mdp": "Mot de passe",
+  "mdp-hint": "Mot de passe",
+  "required_field2": "Enter votre Mot de passe",
+  "svm": "Se souvenir de moi",
+  "mdp?": "Mot de passe oublié?",
+  "cnx": "Connexion",
+  "Reset": "Reset",
+  "login": "Log in",
+  "dnt?": "Don't have an account ?"
+
+
+}
